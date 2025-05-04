@@ -12,7 +12,7 @@
 - 👀 I’m passionate about **storytelling, digital creativity, and design**
 - 🌱 Currently learning **frontend development**, **cloud computing**, and **video editing**
 - 💞️ Excited to collaborate on **UI/UX projects**, **creative campaigns**, and **open-source work**
-- 📫 Reach me via: [LinkedIn](linkedin.com/in/nabiha-shahid-50658928b) | [Email](mailto:nabihashahid149@gmail.com)
+- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/nabiha-shahid-50658928b/) | [Email](mailto:nabihashahid149@gmail.com)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I turn everyday ideas into scroll-stopping content ✨
 
@@ -35,7 +35,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="linkedin.com/in/nabiha-shahid-50658928b" target="_blank">
+  <a href="https://www.linkedin.com/in/nabiha-shahid-50658928b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:nabihashahid149@gmail.com" target="_blank">
