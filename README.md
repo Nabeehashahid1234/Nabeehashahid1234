@@ -1,20 +1,19 @@
-<h1 align="center">Hi there, I'm Nabiha Shahid! 👋</h1>
+<h1 align="center">Hi, I'm Nabiha Shahid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=800&lines=coder+%7C+Creative+Thinker+%7C+designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9F79EE&center=true&vCenter=true&width=900&lines=FinTech+%7C+AI%2FML+%7C+Data+Analytics;Python+Developer+%7C+Agentic+AI;Building+Intelligent+and+User-Centered+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me
-- 👋 Hi, I’m **@Nabeehashahid1234**
-- 🎓 Student at **FAST National University**
-- 👀 I’m passionate about **storytelling, digital creativity, and design**
-- 🌱 Currently learning **frontend development**, **cloud computing**, and **video editing**
-- 💞️ Excited to collaborate on **UI/UX projects**, **creative campaigns**, and **open-source work**
-- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/nabiha-shahid-50658928b/) | [Email](mailto:nabihashahid149@gmail.com)
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I turn everyday ideas into scroll-stopping content ✨
+### About Me
+I am an undergraduate student at FAST National University (NUCES), Class of 2028, with a strong interest in FinTech, Artificial Intelligence, and Data Analytics. My work focuses on building intelligent, user-centered solutions by combining technical expertise with creative problem-solving.
+
+I have experience in web development, user interface design, and multimedia content creation. I am particularly interested in Python development, AI/ML applications, and data-driven decision-making, along with exploring Agentic AI systems and emerging technologies.
+
+In addition to my technical work, I actively contribute to communities and societies, where I collaborate with peers, organize initiatives, and promote knowledge sharing. I am a continuous learner who adapts quickly and seeks opportunities to grow through impactful and innovative projects.
+
+I am open to internships, collaborations, and projects in FinTech, AI/ML, data analytics, and software development.
 
 ---
 
@@ -46,6 +45,5 @@
 ---
 
 <!---
-Nabeehashahid1234/Nabeehashahid1234 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Nabeehashahid1234/Nabeehashahid1234 is a special repository because its README.md appears on your GitHub profile.
 --->
