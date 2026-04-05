@@ -11,14 +11,14 @@
 
 ---
 
-## 🧑‍💻 Profile
+## Profile 🧑‍💻
 
 Undergraduate student at FAST National University (NUCES), Class of 2028.  
 Focused on building intelligent, data-driven systems with strong emphasis on usability and real-world impact.
 
 ---
 
-## 🚀 Expertise
+## Expertise 🚀
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ React & JavaScript
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack 💻
 
 <p align="center">
 
@@ -83,7 +83,7 @@ React & JavaScript
 
 ---
 
-### 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nabeehashahid1234&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabeehashahid1234&theme=radical" width="47%" /> </p>
+### GitHub Stats 📊 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nabeehashahid1234&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabeehashahid1234&theme=radical" width="47%" /> </p> 
 
 <p align="center">
   <br>
