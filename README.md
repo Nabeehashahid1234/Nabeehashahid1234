@@ -1,91 +1,166 @@
-<h1 align="center">Nabiha Shahid</h1>
+<div align="center">
 
-<p align="center">
-  FinTech • Artificial Intelligence • Data Analytics
-</p>
+# Nabiha Shahid
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nabiha-shahid-50658928b/">LinkedIn</a> |
-  <a href="mailto:nabihashahid149@gmail.com">Email</a>
-</p>
+### AI • FinTech • Data Analytics • Software Engineering
 
----
-
-## Profile 🧑‍💻
-
-Undergraduate student at FAST National University (NUCES), Class of 2028.  
-Focused on building intelligent, data-driven systems with strong emphasis on usability and real-world impact.
-
----
-
-## Expertise 🚀
-
-<table>
-<tr>
-<td width="33%">
-
-**Artificial Intelligence**  
-Machine Learning  
-Agentic Systems  
-
-</td>
-<td width="33%">
-
-**Data Analytics**  
-Visualization  
-Decision Systems  
-
-</td>
-<td width="33%">
-
-**Development**  
-Python  
-React & JavaScript  
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack 💻
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C++-0A66C2?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Intelligent+Digital+Solutions;AI+%26+Data-Driven+System+Developer;Software+Engineering+Student+at+FAST-NUCES;Passionate+About+Technology+%26+Innovation" />
 
 <br>
 
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/OpenCV-16A34A?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nabiha-shahid-50658928b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<br>
+  <a href="mailto:nabihashahid149@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<img src="https://img.shields.io/badge/Vite-4F46E5?style=for-the-badge&logo=vite"/>
-<img src="https://img.shields.io/badge/SQLite-0C4A6E?style=for-the-badge&logo=sqlite"/>
-<img src="https://img.shields.io/badge/Figma-DC2626?style=for-the-badge&logo=figma"/>
-<img src="https://img.shields.io/badge/Matplotlib-374151?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/TensorFlow-EA580C?style=for-the-badge&logo=tensorflow"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git"/>
-
+  <a href="https://github.com/Nabeehashahid1234">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Nabeehashahid1234&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+
+</div>
 
 ---
 
-### GitHub Stats 📊 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nabeehashahid1234&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabeehashahid1234&theme=radical" width="47%" /> </p> 
+# About Me
 
-<p align="center">
-  <br>
-  <i>Crafting intelligent systems that turn data into meaningful impact.</i>
-</p>
+🎓 Undergraduate Software Engineering student at **FAST National University (NUCES)**.
+
+I am passionate about building intelligent, scalable, and impactful digital systems with a strong focus on:
+
+- Artificial Intelligence
+- Data Analytics
+- FinTech Solutions
+- Full-Stack Development
+- Human-Centered Design
+
+I enjoy transforming ideas into practical solutions through clean architecture, modern technologies, and data-driven thinking.
+
+---
+
+# Areas of Expertise
+
+<div align="center">
+
+| Artificial Intelligence | Data Analytics | Development |
+|---|---|---|
+| Machine Learning | Data Visualization | Full-Stack Development |
+| Agentic Systems | Predictive Analytics | React & JavaScript |
+| AI Applications | Decision Systems | Python & C++ |
+
+</div>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Languages & Core Technologies
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+
+<br><br>
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,tensorflow,opencv" />
+
+<br><br>
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=sqlite,aws" />
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
+</div>
+
+---
+
+# Current Focus
+
+- Building AI-powered applications
+- Exploring Agentic AI Systems
+- Developing scalable full-stack solutions
+- Strengthening data analytics expertise
+- Creating impactful real-world projects
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nabeehashahid1234&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabeehashahid1234&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabeehashahid1234&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Featured Interests
+
+```txt
+Artificial Intelligence
+Machine Learning
+FinTech Systems
+Data Science
+Software Engineering
+Full-Stack Development
+UI/UX Design
+Cloud Technologies
+```
+
+---
+
+# Philosophy
+
+> “Technology becomes meaningful when it creates real impact for people.”
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:nabihashahid149@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nabiha-shahid-50658928b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nabeehashahid1234">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Crafting Intelligent Systems Through Innovation & Technology
+
+⭐ Always learning, building, and innovating.
+
+</div>
