@@ -21,18 +21,13 @@
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Nabeehashahid1234&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-
 </div>
 
 ---
 
 # About Me
 
-🎓 Undergraduate Software Engineering student at **FAST National University (NUCES)**.
+🎓 Undergraduate Financial Technology student at **FAST National University (NUCES)**.
 
 I am passionate about building intelligent, scalable, and impactful digital systems with a strong focus on:
 
