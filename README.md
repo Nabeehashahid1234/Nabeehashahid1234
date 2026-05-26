@@ -4,7 +4,7 @@
 
 ### AI • FinTech • Data Analytics • Software Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Intelligent+Digital+Solutions;AI+%26+Data-Driven+System+Developer;Software+Engineering+Student+at+FAST-NUCES;Passionate+About+Technology+%26+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Intelligent+Digital+Solutions;AI+%26+Data-Driven+System+Developer;Financial+Technology+Student+at+FAST-NUCES;Passionate+About+Technology+%26+Innovation" />
 
 <br>
 
