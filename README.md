@@ -2,23 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nabiha%20Shahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Financial%20Technology%20%7C%20AI%20%7C%20Data%20Analytics%20%7C%20Full-StackDeveloper&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Digital+Solutions+%F0%9F%9A%80;AI+%26+Data-Driven+Systems+Developer+%F0%9F%A7%A0;FinTech+Student+%40+FAST-NUCES+%F0%9F%8E%93;Turning+Ideas+Into+Impactful+Technology+%E2%9C%A8" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/nabiha-shahid-50658928b/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:nabihashahid149@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/Nabeehashahid1234)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nabeehashahid1234&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-
 </div>
-
-<br/>
 
 ---
 
